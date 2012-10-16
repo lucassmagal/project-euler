@@ -16,3 +16,4 @@ def sum_divisors(n):
 
 if __name__ == '__main__':
     doctest.testmod()
+    print sum_divisors(1000)
